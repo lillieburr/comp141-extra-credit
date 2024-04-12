@@ -1,0 +1,11 @@
+Line 1: hello this is going to be 10 lines
+Line 2: this is for my extra credit
+Line 3: I do not love linux.
+Line 4: This is why I need the extra credit.
+Line 5: Linux can be confusing.
+Line 6: So I have to do more linux.
+Line 7: To get extra credit.
+Line 8: And so I better understand what I am doing.
+Line 9: Almost done with 10 lines.
+Line 10: Yay this is ten lines.
+Line 11: Ok I am done.
