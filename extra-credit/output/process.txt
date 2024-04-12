@@ -1,4 +1,5 @@
-    PID TTY          TIME CMD
-   3916 pts/2    00:00:00 bash
-  28869 pts/2    00:00:00 ps
-  28870 pts/2    00:00:00 head
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+codespa+       1  0.0  0.0   1136   640 ?        Ss   18:01   0:00 /sbin/docker-init -- /bin/sh -c echo Container started trap "exit 0" 15 /usr/local/share/ssh-init.sh /usr/local/share/docker-init.sh exec "$@" while sleep 1 & wait $!; do :; done - /usr/local/share/docker-init.sh /usr/local/share/ssh-init.sh sleep infinity
+codespa+       7  0.0  0.0   7236  1664 ?        S    18:01   0:00 sleep infinity
+root          22  0.0  0.0  12196  3480 ?        Ss   18:01   0:00 sshd: /usr/sbin/sshd [listener] 0 of 10-100 startups
+codespa+     156  0.0  0.0   2616  1408 ?        Ss   18:01   0:00 /bin/sh
